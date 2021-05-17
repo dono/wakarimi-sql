@@ -1,0 +1,2 @@
+# wakarimi-sql
+わかりみ〜
